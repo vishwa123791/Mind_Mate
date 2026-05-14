@@ -1,0 +1,62 @@
+{
+  "title": "Anxiety: From Surviving to Thriving",
+  "author": "Faith Dolan, Peer Educator",
+  "editors": ["Silas James", "Haley Wallace", "Elizabeth Perry"],
+  "date": "April 5th, 2024",
+  "url": "https://www.depts.ttu.edu/rise/Blog/anxiety.php?utm_source=chatgpt.com",
+  "introduction": "Experiencing occasional nervousness, worry, or overwhelm is a natural part of being human. Nervousness in response to manageable stressors is 'eustress' – a constructive form of stress. However, excessive stress can jeopardize overall well-being.",
+  "statistics": {
+    "college_students_with_anxiety": "37%"
+  },
+  "sections": [
+    {
+      "title": "Anxiety's Signs and Symptoms",
+      "mental_symptoms": [
+        "Feeling a sense of dread",
+        "Heightened state of agitation or panic",
+        "Difficulty concentrating",
+        "Increased irritability",
+        "Sense of detachment or disconnect from surroundings"
+      ],
+      "physical_symptoms": [
+        "Feeling dizzy",
+        "Tingling sensations of numbness",
+        "Shortness of breath",
+        "Increased heart rate",
+        "Nausea or stomach discomfort",
+        "Increased urgency to use the restroom",
+        "Excessive sweating",
+        "Sleep issues, fatigue, and restlessness",
+        "Panic attacks",
+        "Overall sense of unwellness or feeling sick"
+      ]
+    },
+    {
+      "title": "Reframing and Reconsidering",
+      "content": "Strategies to manage anxiety include reframing 'what-if' thoughts, replacing polarized thinking, and practicing self-compassion and mindfulness."
+    },
+    {
+      "title": "Finding Your Roots",
+      "mindfulness_methods": [
+        "4-7-8 Breathing Exercise",
+        "5, 4, 3, 2, 1 Grounding Method",
+        "Body Scan",
+        "Cold Shock"
+      ],
+      "app_suggestion": "Texas Tech Students have free access to Shmoody, a mental health app for mindfulness."
+    },
+    {
+      "title": "Coping Mechanisms",
+      "methods": [
+        "Social activities such as meeting friends or calling a loved one",
+        "Creative activities like writing, doodling, or listening to music",
+        "Physical activities such as exercising or crying",
+        "Relaxing activities like taking a bath, watching a show, or meditating"
+      ]
+    },
+    {
+      "title": "Changing the Factors that Can Contribute to Anxiety",
+      "content": "Evaluating sleep habits and substance use can provide insight into anxiety levels. Sleep is essential for mental well-being."
+    }
+  ]
+}
